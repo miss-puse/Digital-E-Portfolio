@@ -1,5 +1,7 @@
 # 🚀 Digital Portfolio - Work Readiness Journey
 
+                     Hope Kgomokaboya
+
 <div align="center">
 
 
@@ -233,7 +235,7 @@ I produced a professional, compelling CV that effectively communicates my value 
 ---
 
 ## 📧 CV Submission Experience
-![Screenshot (112)](https://github.com/user-attachments/assets/d8f72166-9089-4ee1-9f46-733a97209fd9)
+
 
 
 ### 📋 Evidence Collection
