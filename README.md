@@ -100,7 +100,7 @@ Through this process, I discovered my strong inclination toward Application Deve
 | Database Management | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | Web Development | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | Network Administration | ⭐⭐⭐ | ⭐⭐⭐ |
-| Cybersecurity | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Cybersecurity | ⭐ | ⭐⭐⭐⭐⭐ |
 
 </div>
 
@@ -158,7 +158,7 @@ I discovered that my strongest skills lie in problem-solving, front-end developm
 </div>
 
 #### 🎭 Personality Type Visualization
-![Personality Results](https://via.placeholder.com/600x400/6F42C1/FFFFFF?text=Personality+Assessment+Results)
+
 
 ### 🌟 STAR Technique Reflection
 
@@ -235,6 +235,7 @@ I produced a professional, compelling CV that effectively communicates my value 
 ---
 
 ## 📧 CV Submission Experience
+![image](https://github.com/user-attachments/assets/2596f2e0-b157-4bd3-85e2-323ea63b001b)
 
 
 
